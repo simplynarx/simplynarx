@@ -1,4 +1,5 @@
-### I'm Niko, an aspiring embedded systems developer.
+### I'm Niko, an aspiring software developer.
+# Currently a student at Adelphi University
 
 <!--
 **simplynarx/simplynarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
