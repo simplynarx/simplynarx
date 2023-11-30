@@ -1,6 +1,6 @@
 ### I'm Niko, an aspiring low-level software developer.
 -  Currently a student at Adelphi University
--  Studying C / C++ / Rust
+-  Currently studying C / C++
 
 ### Projects
 
