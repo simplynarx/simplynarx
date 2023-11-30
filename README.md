@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Simply-CHIP8](https://github.com/simplynarx/Simply-CHIP8): A W.I.P CHIP-8 emulator written in C
+[Simply-CHIP8](https://github.com/simplynarx/Simply-CHIP8) - A W.I.P CHIP-8 emulator written in C
 
 <!--
 **simplynarx/simplynarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
