@@ -1,9 +1,10 @@
 ### I'm Niko, an aspiring low-level software developer.
 -  Currently a student at Adelphi University
+-  Studying C / C++ / Rust
 
 ### Projects
 
-(https://github.com/simplynarx/Simply-CHIP8 "Simply-CHIP8:")A W.I.P CHIP-8 Emulator
+[Simply-CHIP8](https://github.com/simplynarx/Simply-CHIP8): A W.I.P CHIP-8 emulator written in C
 
 <!--
 **simplynarx/simplynarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
