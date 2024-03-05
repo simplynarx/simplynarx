@@ -1,4 +1,4 @@
-### I'm Niko, an aspiring low-level software developer!
+### I'm Niko, an aspiring low-level software developer
 -  Currently a student at Adelphi University
 -  Currently studying C / C++
 
@@ -7,6 +7,10 @@
 [Simply-CHIP8](https://github.com/simplynarx/Simply-CHIP8) : A CHIP-8 interpreter/emulator written in C 
 
   For years now, I've always wanted to learn about the inner working of emulation. This CHIP-8 emulator/interpreter served as both my first emulation project and my first major C project.
+
+[SimplyGB](https://github.com/simplynarx/SimplyGB) : A Gameboy emulator written in C++
+
+  Work in progress Gameboy emulator
 
 <!--
 **simplynarx/simplynarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
