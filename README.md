@@ -8,7 +8,7 @@
 
   For years now, I've always wanted to learn about the inner working of emulation. This CHIP-8 emulator/interpreter served as both my first emulation project and my first major C project.
 
-[SimplyPL0Compiler](https://github.com/simplynarx/SimplePL0Compiler) : A simple PL/0 compiler written in C++
+[SimplePL0Compiler](https://github.com/simplynarx/SimplePL0Compiler) : A simple PL/0 compiler written in C++
 
   Work in compiler for the PL/0 programming language
 
