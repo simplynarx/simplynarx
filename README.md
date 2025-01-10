@@ -1,8 +1,11 @@
 ### I'm Niko, an aspiring low-level software developer
 -  Currently a student at Adelphi University
 -  Preferred languages:  C / C++
+-  Known Languages: C / C++ / Java / Python / 
+-  Currently Learning: Rust
+-  Planning to Learn: Go
 
-### Projects
+### Notable Projects
 
 [Simply-CHIP8](https://github.com/simplynarx/Simply-CHIP8) : A CHIP-8 interpreter/emulator written in C 
 
@@ -10,7 +13,7 @@
 
 [SimplePL0Compiler](https://github.com/simplynarx/SimplePL0Compiler) : A simple PL/0 compiler written in C++
 
-  Work in progress compiler for the PL/0 programming language
+  Work in progress compiler for the PL/0 programming language. Currently has a working lexer and parser.
 
 <!--
 **simplynarx/simplynarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
