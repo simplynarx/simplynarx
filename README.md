@@ -1,7 +1,7 @@
 ### I'm Niko, an aspiring low-level software developer
 -  Currently a student at Adelphi University
 -  Preferred languages:  C / C++
--  Known Languages: C / C++ / Java / Python / 
+-  Known Languages: C / C++ / Java / Python
 -  Currently Learning: Rust
 -  Planning to Learn: Go
 
